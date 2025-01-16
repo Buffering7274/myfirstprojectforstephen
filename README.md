@@ -4,3 +4,7 @@
 
 In my opinion **Mario** is the best game ever.I will give you some reasons why Mario is so _great_.
 First let me give you the link to [nentendo](https://www.nintendo.com/us/)
+
+Here is a picture of mario
+
+[A picture of Mario](https://www.ssbwiki.com/File:Mario.png)
